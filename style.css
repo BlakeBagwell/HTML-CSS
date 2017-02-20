@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Nunito');
+
+* {
+  background-color: white;
+  font-family: 'Nunito', sans-serif;;
+  text-align: center;
+  margin: auto;
+}
+
+.nav {
+  display: inline;
+}
+
+li {
+  text-align: left;
+}
