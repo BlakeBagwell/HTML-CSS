@@ -1,0 +1,49 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 10%;
+  width: 100%;
+  background: orange;
+
+}
+
+.footer {
+  position: absolute;
+  top: 90%;
+  left: 0;
+  height: 10%;
+  width: 100%;
+  background-color: yellow;
+
+}
+
+.left {
+  position: absolute;
+  top: 10%;
+  left: 0;
+  height: 80%;
+  width: 20%;
+  background-color: blue;
+
+}
+
+.content {
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  height: 80%;
+  width: 60%;
+  background-color: pink;
+
+}
+
+.right {
+  position: absolute;
+  top: 10%;
+  left: 80%;
+  height: 80%;
+  width: 20%;
+  background-color: violet;
+
+}

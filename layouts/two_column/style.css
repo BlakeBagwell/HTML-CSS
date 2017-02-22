@@ -1,0 +1,16 @@
+.left {
+  position: absolute;
+  left: 0;
+  height: 100%;
+  width: 20%;
+  background-color: yellow;
+
+}
+
+.right {
+  position: absolute;
+  left: 20%;
+  height: 100%;
+  width: 80%;
+  background-color: blue;
+}

@@ -1,0 +1,90 @@
+.topright {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 33%;
+  width: 33%;
+  background-color: red;
+
+
+}
+
+.middleright {
+  position: absolute;
+  left: 0;
+  top: 33%;
+  height: 33%;
+  width: 33%;
+  background-color: orange;
+
+}
+
+.bottomright {
+  position: absolute;
+  left: 0;
+  top: 66%;
+  height: 33%;
+  width: 33%;
+  background-color: yellow;
+
+}
+
+.topcenter {
+  position: absolute;
+  left: 33%;
+  top: 0;
+  height: 33%;
+  width: 33%;
+  background-color: green;
+
+}
+
+.middlecenter {
+  position: absolute;
+  left: 33%;
+  top: 33%;
+  height: 33%;
+  width: 33%;
+  background-color: blue;
+
+}
+
+.bottomcenter {
+  position: absolute;
+  left: 33%;
+  top: 66%;
+  height: 33%;
+  width: 33%;
+  background-color: violet;
+
+}
+
+.topleft {
+  position: absolute;
+  left: 66%;
+  top: 0;
+  height: 33%;
+  width: 33%;
+  background-color: grey;
+
+}
+
+.middleleft{
+  position: absolute;
+  left: 66%;
+  top: 33%;
+  height: 33%;
+  width: 33%;
+  background-color: black;
+
+}
+
+.bottomleft {
+  position: absolute;
+  left: 66%;
+  top: 66%;
+  height: 33%;
+  width: 33%;
+  background-color: salmon;
+
+}
