@@ -1,0 +1,53 @@
+.special
+{
+  width: 275px;
+  margin-top: -50px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+  font-family: sans-serif;
+  color: rgba(0,0,0,.8);
+}
+
+img {
+  width: 575px;
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+div {
+  max-width: 740px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+p {
+  letter-spacing: .02em;
+  line-height: 1.4em;
+  word-spacing: .05em;
+  font-size: 22px;
+  color: rgba(0,0,0,.8);
+}
+
+.left {
+  text-align: left;
+  width: 200px;
+  margin: -8px;
+
+}
+
+.right {
+float: right;
+width: 200px;
+margin: -8px;
+}
+
+.nav {
+  max-width: 1000px;
+  margin-top: -10px;
+}

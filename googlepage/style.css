@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+}
+
+img {
+  margin-top: 200px;
+  width: 320px;
+
+}
+
+div.main {
+  padding: 20px;
+  margin: 40px;
+}
+button {
+  padding: 9px;
+  font-weight: bold;
+  color: gray
+
+}
+input {
+  padding: 9px;
+  margin: 10px;
+  width: 475px;
+}
