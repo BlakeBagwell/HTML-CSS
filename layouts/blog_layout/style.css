@@ -1,0 +1,97 @@
+* {
+  font-family: Tahoma, sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.nav {
+}
+
+.bold {
+  font-family: Impact, sans-serif;
+  padding: 0 0 20px 0;
+  color: #232323;
+}
+
+.leftdivide {
+  width: 66%;
+  height: 7px;
+  background-color: orange;
+  float: left;
+
+}
+
+.rightdivide {
+  float: left;
+  width: 34%;
+  height: 7px;
+  background-color: yellow;
+
+
+}
+
+.content {
+  clear: left;
+  float: left;
+  max-width: 66%;
+  border: 18px solid #444444;
+  padding: 40px;
+  margin: 0;
+}
+
+.blueme {
+  color: #04A5F7;
+  background-color: #F3F3F3;
+  padding: 11px 0px 11px 40px;
+  margin-left: -40px;
+  margin-right: -40px;
+  font-weight: bolder;
+
+}
+
+.maintext {
+  margin-top: 23px;
+  letter-spacing: .01em;
+  line-height: 1.5em;
+}
+
+#block {
+  padding-left: 18px;
+  margin-top: 23px;
+  letter-spacing: .01em;
+  line-height: 1.5em;
+}
+
+.blockme {
+  font-size: .7em;
+  color: grey;
+}
+
+.side {
+  width: 34%;
+  float: left;
+  background-color: #F3F3F3;
+}
+
+.sidepic {
+  width: 100%;
+  padding: 18px;
+}
+
+.navpic {
+  height: 40px;
+  margin: 18px;
+}
+
+.searchbar {
+  float: right;
+  height: 36px;
+  width: 183px;
+  padding: 0;
+  margin: 18px;
+}
+
+.link {
+  float: right;
+  width: 55px;
+}
